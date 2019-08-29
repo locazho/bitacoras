@@ -1,2 +1,2 @@
-# bitacoras
-creador de bitacoras
+# Bitácoras para los Capitanes Perezosos
+Creador de bitacoras
