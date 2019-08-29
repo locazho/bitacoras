@@ -1,0 +1,25 @@
+{
+  "name": "miel",
+  "version": "1.0.0",
+  "description": "Creador de un xls con los archivos de una ubicación",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locazho/bitacoras.git"
+  },
+  "keywords": [
+    "bitacora"
+  ],
+  "author": "locazho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locazho/bitacoras/issues"
+  },
+  "homepage": "https://github.com/locazho/bitacoras#readme",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
